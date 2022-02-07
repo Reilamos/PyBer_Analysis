@@ -10,14 +10,14 @@ Python 3.7.11, Jupyter 6.4.5 Final Upload PyBer_Challenge
 
 ![image](https://user-images.githubusercontent.com/96445453/152727149-ec71fb8b-de45-4084-9c7c-1fd65b1f167c.png)
 
-  -The Rural demographic is the lowest amount of riders, drivers, and total fares. The average Fare per Ride however is the most.
+  - The Rural demographic is the lowest amount of riders, drivers, and total fares. The average Fare per Ride however is the most.
   -Urban Cities have the most of riders, drivers, and total fares. The average Fare per Ride however is the least.
 
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 ![image](https://user-images.githubusercontent.com/96445453/152727525-28229775-5c9e-49d7-84f3-87a9807fac93.png)
 
--Employer Recommendatinos
-  -We can see by this data there are a few notable peaks and dips in this data. Near the end of Febuary we see that there is a peak in all 3 cities. Perhaps this      could be attested to spring break vacations. I recommend increasing ride share prices at this time.
-  -Rural areas have less frequent rides which leads to higher fares which can surmize is do to longer distant traveled. Perhaps the employer can offer a monthly ride share as rural people travel less but pay more. The incentive would be to have them travel more with their monthly pass.
-  -The Suburban data suggests they are the only ones that have an uptic in ridesharing late in April. Perhaps this suggest there are congestion in traffic in late april with heavy rains or some other geopraphical feature.
+- Employer Recommendatinos
+  - We can see by this data there are a few notable peaks and dips in this data. Near the end of Febuary we see that there is a peak in all 3 cities. Perhaps           this could be attested to spring break vacations. I recommend increasing ride share prices at this time.
+  - Rural areas have less frequent rides which leads to higher fares which can surmize is do to longer distant traveled. Perhaps the employer can offer a monthly       ride share as rural people travel less but pay more. The incentive would be to have them travel more with their monthly pass.
+  - The Suburban data suggests they are the only ones that have an uptic in ridesharing late in April. Perhaps this suggest there are congestion in traffic in late     april with heavy rains or some other geopraphical feature.
