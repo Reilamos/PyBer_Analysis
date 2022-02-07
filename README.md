@@ -11,7 +11,7 @@ Python 3.7.11, Jupyter 6.4.5 Final Upload PyBer_Challenge
 ![image](https://user-images.githubusercontent.com/96445453/152727149-ec71fb8b-de45-4084-9c7c-1fd65b1f167c.png)
 
   - The Rural demographic is the lowest amount of riders, drivers, and total fares. The average Fare per Ride however is the most.
-  -Urban Cities have the most of riders, drivers, and total fares. The average Fare per Ride however is the least.
+  - Urban Cities have the most of riders, drivers, and total fares. The average Fare per Ride however is the least.
 
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
